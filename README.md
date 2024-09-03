@@ -15,4 +15,4 @@
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/GUYwithPTSD/webprofile.git
+https://github.com/GUYwithPTSD/webprofile.git
